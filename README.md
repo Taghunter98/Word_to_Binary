@@ -18,7 +18,7 @@ The **Word to Binary ASCII Converter** is a Java application that converts user-
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Taghunter98/Word_to_Binary.git
    cd your-repo-name
    ```
 
